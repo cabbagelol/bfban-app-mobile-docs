@@ -2,6 +2,8 @@ title: bfban assistants app
 description: bfban assistants app
 theme: just-the-docs
 
+port: 4003
+
 url: https://github.com/bfban
 favicon_ico: "/assets/images/logo.png"
 logo: "/assets/images/logo.png"
