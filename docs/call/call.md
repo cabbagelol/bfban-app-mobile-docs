@@ -1,7 +1,8 @@
 ---
+layout: default
 title: 深链
-layout: home
-nav_order: 3
+nav_order: 2
+has_children: true
 ---
 
 # 什么是深链？
