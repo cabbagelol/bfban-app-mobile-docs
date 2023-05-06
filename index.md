@@ -4,11 +4,13 @@ layout: home
 nav_order: 1
 ---
 
+![](https://camo.githubusercontent.com/16b1c90d11cb4c534e19449003b908203b77f70e8f4a981a305c9997ca653048/68747470733a2f2f626662616e2d6170702e636162626167656c6f6c2e6e65742f696d616765732f6769746875622e6170702e626967706963747572652e6a7067)
+
 # BFBAN Assistants App Docs
 
 ### 这里由开发者创建的`bfban-app-mobile`文档, 在移动设备使用BFBAN
 
-<br>
+<br/>
 
 [下载](https://bfban-app.cabbagelol.net){: .btn .btn-purple }
 [公开测试](/docs/testbuild/testbuild){: .btn .btn-link }
